@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\projects\ayplayer_board\main_pcb\main.PcbDoc
 Date     : 31.07.2017
-Time     : 21:01:38
+Time     : 21:32:46
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -10,7 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Via (28.175mm,27.35mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Pad C15-1(15.225mm,40.675mm) on Bottom Layer 
 Rule Violations :1
 
 Processing Rule : Width Constraint (Min=0.15mm) (Max=3mm) (Preferred=0.3mm) (All)
