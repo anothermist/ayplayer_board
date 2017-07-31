@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for ayplayer2.22
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -269,6 +269,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
 ConfigurationType=
+
+[Generic_EDE]
+OutputDir=Project Outputs for ayplayer2.22
 
 [OutputGroup1]
 Name=Netlist Outputs
